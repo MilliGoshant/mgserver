@@ -1,4 +1,4 @@
-module github.com/MilliGoshant/mgserver
+module github.com/milligoshant/mgserver
 
 go 1.23.4
 
