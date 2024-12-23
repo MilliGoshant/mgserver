@@ -41,7 +41,7 @@ func main() {
 	r.Static("/static", "./static")
 
 	err := r.
-		WithETCD("MgserverTest2", "http://172.30.20.5:2379").
+		WithETCD("MgserverTest2", "http://localhost:2379").
 		Run(port)
 
 	if err != nil {
