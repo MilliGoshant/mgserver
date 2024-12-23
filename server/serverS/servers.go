@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/MilliGoshant/mgserver"
+	"github.com/milligoshant/mgserver"
 )
 
 var once sync.Once

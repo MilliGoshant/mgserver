@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/MilliGoshant/mgserver/server/bytesconv"
+	"github.com/milligoshant/mgserver/server/bytesconv"
 )
 
 // String contains the given interface object slice and its format.

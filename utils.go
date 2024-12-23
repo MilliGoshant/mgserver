@@ -16,7 +16,7 @@ import (
 )
 
 // BindKey indicates a default bind key.
-const BindKey = "_github.com/MilliGoshant/mgserver/server/bindkey"
+const BindKey = "_github.com/milligoshant/mgserver/server/bindkey"
 
 // Bind is a helper function for given interface object and returns aserver middleware.
 func Bind(val any) HandlerFunc {

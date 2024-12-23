@@ -11,7 +11,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/MilliGoshant/mgserver/server/bytesconv"
+	"github.com/milligoshant/mgserver/server/bytesconv"
 )
 
 var (

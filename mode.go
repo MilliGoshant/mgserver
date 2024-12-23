@@ -10,7 +10,7 @@ import (
 	"os"
 	"sync/atomic"
 
-	"github.com/MilliGoshant/mgserver/server/binding"
+	"github.com/milligoshant/mgserver/server/binding"
 )
 
 // EnvServerMode indicates environment name forserver mode.

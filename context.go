@@ -20,8 +20,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MilliGoshant/mgserver/server/binding"
-	"github.com/MilliGoshant/mgserver/server/render"
+	"github.com/milligoshant/mgserver/server/binding"
+	"github.com/milligoshant/mgserver/server/render"
 )
 
 // Content-Type MIME of the most common data formats.
@@ -39,10 +39,10 @@ const (
 )
 
 // BodyBytesKey indicates a default body bytes key.
-const BodyBytesKey = "_github.com/MilliGoshant/mgserver/server/bodybyteskey"
+const BodyBytesKey = "_github.com/milligoshant/mgserver/server/bodybyteskey"
 
 // ContextKey is the key that a Context returns itself for.
-const ContextKey = "_github.com/MilliGoshant/mgserver/server/contextkey"
+const ContextKey = "_github.com/milligoshant/mgserver/server/contextkey"
 
 type ContextKeyType int
 

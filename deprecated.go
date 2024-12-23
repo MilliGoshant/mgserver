@@ -7,7 +7,7 @@ package mgserver
 import (
 	"log"
 
-	"github.com/MilliGoshant/mgserver/server/binding"
+	"github.com/milligoshant/mgserver/server/binding"
 )
 
 // BindWith binds the passed struct pointer using the specified binding engine.

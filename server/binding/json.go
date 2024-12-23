@@ -10,7 +10,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/MilliGoshant/mgserver/server/json"
+	"github.com/milligoshant/mgserver/server/json"
 )
 
 // EnableDecoderUseNumber is used to call the UseNumber method on the JSON

@@ -10,8 +10,8 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/MilliGoshant/mgserver/server/bytesconv"
-	"github.com/MilliGoshant/mgserver/server/json"
+	"github.com/milligoshant/mgserver/server/bytesconv"
+	"github.com/milligoshant/mgserver/server/json"
 )
 
 // JSON contains the given interface object.
